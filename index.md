@@ -1,4 +1,4 @@
-# Toast Rail
+# ![Image](ToastRailLogo.png)
 
 ## Welcome to the Toast Rail site.
 
